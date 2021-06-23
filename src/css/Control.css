@@ -1,0 +1,27 @@
+.Control_list a{
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: large;
+    color :white;
+    padding: 0px 5px 0px 5px;
+    background-color:lightcoral;
+}
+
+.Control_list input[type="button"]{
+    border: 0;
+    outline: 0;
+    background-color: transparent;
+    font-size: large;
+    padding: 4px 5px 0px 5px;
+    margin-left: 10px;
+    background-color:lightcoral;
+    color :white;
+}
+
+.Control_list a:hover{
+    color: yellowgreen;
+}
+
+.Control_list input[type="button"]:hover{
+    color :yellowgreen;
+}
